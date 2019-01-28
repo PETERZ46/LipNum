@@ -1,0 +1,36 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="zhengqi">
+    <words>
+      <w>actv</w>
+      <w>batc</w>
+      <w>capure</w>
+      <w>cmap</w>
+      <w>conv</w>
+      <w>crossentropy</w>
+      <w>dataframe</w>
+      <w>dataset</w>
+      <w>datasets</w>
+      <w>dets</w>
+      <w>exts</w>
+      <w>filepath</w>
+      <w>fnmatch</w>
+      <w>glorot</w>
+      <w>grayscale</w>
+      <w>kfold</w>
+      <w>labelset</w>
+      <w>lables</w>
+      <w>lipnum</w>
+      <w>minibatch</w>
+      <w>pred</w>
+      <w>relu</w>
+      <w>resized</w>
+      <w>rmsprop</w>
+      <w>softmax</w>
+      <w>svmmodel</w>
+      <w>tensorboard</w>
+      <w>threadsafe</w>
+      <w>videogen</w>
+      <w>vtype</w>
+    </words>
+  </dictionary>
+</component>
